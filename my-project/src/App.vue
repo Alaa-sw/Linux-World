@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Linux World"/>
+    <HelloWorld msg="Linux World | عالم لِينُكس"/>
   </div>
 </template>
 
